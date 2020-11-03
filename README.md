@@ -1,4 +1,6 @@
 # Xylophone
-As the name says apply on phone beautiful Xylophone
+Symulates Xylophone. 
+App as boring as it sounds :)
+*****Have Fun******
 
 https://www.appbrewery.co/
